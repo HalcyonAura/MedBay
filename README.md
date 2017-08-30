@@ -1,0 +1,2 @@
+# MedBay
+Barrett Honors Thesis involving android and web development, web scraping, and more. While the goal of this thesis is more focused on the design and prototype of the two modes of applications, the code will go here. The app itself seeks to help users in need of information of nearby medical facilities in a more effective manner. This app also hopes to work to prevent excessive medical transport due to insurance, machinery, doctors, and service availability, as well as diminish the amount of time spent scouring medical facility websites for similar necessities.
