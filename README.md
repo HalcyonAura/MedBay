@@ -34,3 +34,27 @@ No work done this week. Lots of projects and other stuff due. Still wondering ab
 
 ## 11/12-11/18
 I completed my capstone's UI demo (rudimentary mind you but that's a start). Now that I have a pretty decent base to work with both in application and in knowledge (since I've been creating a simple and detailed tutorial for my groupmates) I think once I create the digititzed UI I can just power through the UI demo for this project. It might take me 2-3 days once I put the design together. 
+
+## 11/19-12/9
+Admittedly. I got stuck. UI design stopped me. I just could not figure out how to best make a design for this application that wasn't copying Google Maps.
+
+## 12/10-12/23
+After more thought I realized I didn't want to run the risk of copying Google Maps and being sued. So I began thinking of a new design layout. Maybe it would work better as a website for now...
+
+## 12/24-1/6
+I decided I'd veer toward another direction: maybe there's another application I can make. So I started brainstorming. Thinking of unique apps is incredibly hard. I went through a few ideas and found they already existed...
+
+## 1/7-1/13
+I have an unique idea. An application that helps others with their anxiety. I need to figure out designs and how I'm going to do it now and rewrite all the documents I did for this application (this is on hold for now, I'm going to see if I can do these in parallel or outsource the design for this application because I just can't put my head to it). 
+
+## 1/14-2/1
+Documents and outsourcing some design work (by asking a friend) led me to make a lot of progress on the proposal, project plan, and design document. Yay. Progress. I also feel a little more motivated for this new application. Unfortunately school is incredibly busy and I'm doing too much again.
+
+## 2/3-2/17 
+Both applications' documents have been finished and handed off to people to make comments so I can revise them and make them better (structure, language, etc.). In the meantime I've thrown together some basic application skeleton stuff. I just need to actually connect everything. AI midterm is causing impending doom and I'm probably going to stop for now.
+
+## 2/18-3/3
+Studying for AI midterm and trying to find a room for the defense which has now been determined (date and room). Stress...
+
+## 3/4-3/10
+Spring break! And working on this and catching up with other stuff. Basic functionality for the other application has been finished and pushed, now this application, going to try again with the mobile app since I've got a new design to follow. Also need to start figuring out testing and making a write up for this project...
